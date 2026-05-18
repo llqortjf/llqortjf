@@ -1,4 +1,4 @@
-<img src="./repo_pic.png" height="50" />
+<img src="./repo_pic.png" height="200" />
 
 ### Languages
 
