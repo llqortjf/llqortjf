@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llqortjf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llqortjf&layout=compact&cache_seconds=1800)
