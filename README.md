@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
-![C](https://img.shields.io/badge/C++-Beginner-lightgrey)
+**Python**
+<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
+  <div style="background-color: #4caf50; width: 90%; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    Advanced
+  </div>
+</div>
