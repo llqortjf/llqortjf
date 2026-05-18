@@ -1,10 +1,7 @@
 <img src="./repo_pic.png" height="200" />
 
 ### Languages
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
 
-**Python**
-<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
-  <div style="background-color: #4caf50; width: 90%; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    Advanced
-  </div>
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
