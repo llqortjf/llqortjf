@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Languages
+### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llqortjf&layout=compact&theme=rose_pine)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+![C](https://img.shields.io/badge/C++-Beginner-lightgrey)
